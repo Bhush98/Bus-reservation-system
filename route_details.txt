@@ -1,0 +1,17 @@
+Source       Destination       FARE
+HYD    -->      PUN            1200
+PUN    -->      HYD            1100
+BLR    -->      PUN            1200
+PUN    -->      BLR            1100
+HYD    -->      BLR            1000
+BLR    -->      HYD            1200
+MUM    -->      PUN            650
+PUN    -->      MUM            700
+ISK    -->      MUM            550
+MUM    -->      ISK            600
+BLR    -->      MAA            800
+MAA    -->      BLR            700 
+GOA    -->      PUN            300 
+
+PUN    -->      GOA            750
+BLR    -->      GOA            1700
