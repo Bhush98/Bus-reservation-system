@@ -12,6 +12,5 @@ MUM    -->      ISK            600
 BLR    -->      MAA            800
 MAA    -->      BLR            700 
 GOA    -->      PUN            300 
-
 PUN    -->      GOA            750
 BLR    -->      GOA            1700
